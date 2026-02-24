@@ -44,12 +44,9 @@ width="40" height="40"/>&nbsp;
 ## 📈 GitHub Stats
 
 <div id="stat" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?
-MACAN1-web=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?
-MACAN1-web=vn7n24fzkq&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?
-MACAN1-web=vn7n24fzkq&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?MACAN1-web=vn7n24fzkq&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?MACAN1-web=vn7n24fzkq&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?MACAN1-web=vn7n24fzkq&theme=github_dark"/>
 </div>
 
 ## Let's Connect!
