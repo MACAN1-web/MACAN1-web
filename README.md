@@ -2,8 +2,8 @@
 <h1>Hi there, I'm Vladislav</h1>
 <h3>Frontend developer from Russia</h3>
 </div>
-<div id="socials" align="center">
 
+<div id="socials" align="center">
 <a>
 <a href="https://t.me/vladislavtam">
     <img src="./icons/TELEGRAM.svg" alt="Telegram"/>
@@ -20,10 +20,10 @@
 - 🤝 I’m a team player — I adapt quickly and love being part of the team culture
 - ⚡ My style: calm, minimalist designs with a touch of sports aesthetics
 
-## 🛠️ Tech Stack
+## 🛠️ My Stack
+
 
 ### Frontend
-### Languages and tools
 <img src="./icons/javascript.svg"
 title="js" width="40" height="40"/>&nbsp;
 <img src="./icons/html.svg" title="html"
@@ -47,9 +47,12 @@ width="40" height="40"/>&nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MACAN1-web&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MACAN1-web&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MACAN1-web&theme=github_dark" alt=""/>
-</div>
-## Let's Connect!
+</div> 
+
 <div align="center">
+
+### Let's Connect!
+
   
   <a href="https://t.me/vladislavtam">
     <img src="./icons/TELEGRAM.svg" alt="Telegram"/>
@@ -61,7 +64,7 @@ width="40" height="40"/>&nbsp;
   *"First, solve the problem. Then, write the code."*
 </div>
   
-</div>
+
 
 
 
