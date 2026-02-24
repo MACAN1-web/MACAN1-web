@@ -13,15 +13,10 @@
 
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **React projects**
-- 🌱 I’m continuously learning and exploring new technologies
-- 👯 I’m open to collaborating on interesting frontend projects
-- 💬 Feel free to ask me about **JavaScript, React, or CSS**
 - 🤝 I’m a team player — I adapt quickly and love being part of the team culture
 - ⚡ My style: calm, minimalist designs with a touch of sports aesthetics
 
 ## 🛠️ My Stack
-
 
 ### Frontend
 <img src="./icons/javascript.svg"
@@ -40,6 +35,18 @@ title="sql" width="40" height="40"/>&nbsp;
 title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="./icons/npm.svg" title="npm"
 width="40" height="40"/>&nbsp;
+
+## In the plans
+
+<img src="./icons/Node.js.svg"
+title="node.js" width="40" height="40"/>&nbsp;
+<img src="./icons/TypeScript.svg"
+title="TypeScript" width="40" height="40"/>&nbsp;
+<img src="./icons/Adobe Photoshop.svg"
+title="Adobe Photoshop" width="40" height="40"/>&nbsp;
+<img src="./icons/Figma.svg"
+title="Figma" width="40" height="40"/>&nbsp;
+
 
 ## 📈 GitHub Stats
 
